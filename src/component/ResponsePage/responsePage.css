@@ -1,0 +1,13 @@
+.responseTypography {
+    background-color: whitesmoke;
+    width: 100vh;
+    height: 60vh
+}
+
+.happy {
+    color: green
+}
+
+.sad {
+    color: red
+}

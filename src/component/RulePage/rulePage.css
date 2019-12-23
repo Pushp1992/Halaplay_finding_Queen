@@ -1,0 +1,11 @@
+.parentTypography {
+    background-color: whitesmoke;
+    width: 100vh;
+    height: 50vh
+}
+
+.childTypography {
+    background-color: white;
+    /* width: 60vh;
+    height: 10vh */
+}

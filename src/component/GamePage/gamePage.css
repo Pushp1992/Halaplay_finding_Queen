@@ -1,0 +1,18 @@
+.parentTypography {
+    background-color: whitesmoke;
+    width: 140vh;
+    height: 70vh
+}
+
+#selectPlanetBox {
+    min-width: 155px;
+}
+
+#selectVehicleBox {
+    min-width: 155px;
+}
+
+.loaderStyle {
+    width: 70vh;
+    height: 10vh
+}
