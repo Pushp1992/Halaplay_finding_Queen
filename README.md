@@ -1,4 +1,4 @@
-* This repository is meant for HALAPLAY - Finding Queen Application.
+# This repository is meant for HALAPLAY - Finding Queen Application.
 
 Runs the app in the development mode.<br>
 Open [http://localhost:7000](http://localhost:7000) to view it in the browser.
